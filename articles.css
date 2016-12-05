@@ -9,7 +9,8 @@ div.nintendo {
         font-size: 21px;
         color: #e74c3c;
         line-height: 25px;
-        border-radius: 5px;
+        border-radius: 25px;
+        border: 20px;
 }
 
 div.playstation {
@@ -19,11 +20,15 @@ div.playstation {
         font-size: 15px;
         color: #9b59b6;
         line-height: 20px;
-        border-radius: 10px;
+        border-radius: 50px;
 }
 
 div.atari {
 	background-color: #607D8B;
         padding: 20px;
-
+        font-family: "Courier New", Courier, monospace;
+        font-size: 15px;
+        color: #2ecc71;
+        line-height: 15px;
+        border-radius: 100px;
 }
