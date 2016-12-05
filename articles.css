@@ -7,7 +7,7 @@ div.nintendo {
 	padding: 30px;
         font-family: arial;
         font-size: 21px;
-        color: white;
+        color: #e74c3c;
         line-height: 25px;
         border-radius: 5px;
 }
@@ -24,4 +24,6 @@ div.playstation {
 
 div.atari {
 	background-color: #607D8B;
+        padding: 20px;
+
 }
