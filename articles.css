@@ -10,7 +10,7 @@ div.nintendo {
         color: #e74c3c;
         line-height: 25px;
         border-radius: 25px;
-        border: 20px;
+        border-style: solid;
 }
 
 div.playstation {
@@ -21,6 +21,7 @@ div.playstation {
         color: #9b59b6;
         line-height: 20px;
         border-radius: 50px;
+        border-style: solid;
 }
 
 div.atari {
@@ -31,4 +32,5 @@ div.atari {
         color: #2ecc71;
         line-height: 15px;
         border-radius: 100px;
+        border-style: solid;
 }
