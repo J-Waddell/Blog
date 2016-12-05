@@ -5,10 +5,21 @@ h1 {
 div.nintendo {
 	background-color: #00BCD4;
 	padding: 30px;
+        font-family: arial;
+        font-size: 21px;
+        color: white;
+        line-height: 25px;
+        border-radius: 5px;
 }
 
 div.playstation {
 	background-color: #3F51B5;
+        padding: 25px;
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 15px;
+        color: #9b59b6;
+        line-height: 20px;
+        border-radius: 10px;
 }
 
 div.atari {
